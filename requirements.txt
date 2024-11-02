@@ -1,2 +1,7 @@
-face_recognition==1.3.0
 opencv-python==4.10.0.84
+pillow==10.4.0
+torch
+pillow
+transformers
+torchvision
+numpy<2
